@@ -1,0 +1,6 @@
+{
+  "name": "Galactic Spiral Visualizer",
+  "description": "An interactive mathematical simulation of spiral galaxy structures using logarithmic spiral equations and star dispersion modeling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
